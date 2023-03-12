@@ -5,10 +5,10 @@ import subprocess
 import time
 
 testing = False
-webhook_url = "https://discord.com/api/webhooks/1084209194598662175/ZQ-zaH0LQKHX3S1EDWaHLLutmFr4Y6ONnLm1UMN5jtnDx4pzMLV108k0nUfsZnZvb7ok"
+webhook_url = "webhook here"
 
 if testing == True:
-    webhook_url = "https://discord.com/api/webhooks/1083527458680209409/bKBLgODNKCG5jSJm9GKBzG4OK8qmlKxwgI0oMe1DqkFjoYLV3MeKhz953ZoRPHrS2CMq"
+    webhook_url = "webhook here"
 
 
 def clear():
